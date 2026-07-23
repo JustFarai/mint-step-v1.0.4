@@ -1,0 +1,6 @@
+{
+  "name": "FinFlow Pro & Box Technologies",
+  "description": "A unified Material Design 3 personal portfolio compiler and professional B2B suite featuring real-time corporate ledger sheets, custom SKU trackers, live receipt scanners, and CFO AI advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
